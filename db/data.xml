@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+	<server>localhost</server>
+	<uname>root</uname>
+	<pwd>12345678</pwd>
+	<mydb>hf160504</mydb>
+</db>
